@@ -1,4 +1,3 @@
-<p align="left">
 ![](<https://github.com/AdnanMayof/adnan.mayof.github.io/blob/main/1618453428882.jpeg?raw=true>)
 
 
