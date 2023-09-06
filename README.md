@@ -1,9 +1,5 @@
- <p align="left"> 
+<p align="left">
 ![](<https://github.com/AdnanMayof/adnan.mayof.github.io/blob/main/1618453428882.jpeg?raw=true>)
-  <!-- Your project description here -->
-
-</p>
-
 
 
 # Data Analyst
